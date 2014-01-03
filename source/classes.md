@@ -11,7 +11,7 @@ While the origins of the Black Knights remain a mystery, their presence in the w
 ### Engineer 
 Deep within the northern mountains lies the city state of the Engineers, an exclusive guild that dedicates their lives to the art of construction and technological marvels. These men and woman toil endlessly in their craft, both for the safety of those they wish to protect, and for the creations that will help the lives of those who need it. When those of ill intent try to take these creations by force, however, they quickly learn that the Engineers do not need the aid of others to protect their work. Known easily throughout the realm by their special Steam Converter’s, the Engineers create marvels of such technological artistry that some question if these marvels could actually be made without magic.
 
-### Elementalists 
+### Elementalist
 When the first reservoirs of magic were discovered in the world, the few men and women not immediately wary and fearful of its alien qualities became entranced with it, and most of all filled with a new sense of discovery. The works of these men and women to harness and study magic eventually led the the creation of the Acaderium, a place where those who have the gift to harness magic learn to become one of many Elementalists, who use their powers of natural magic for humanitarian needs. Yet when one talks of the horrors of war, none skip  past the exploits of those Elementalists who shaped the battlefield with devastating magics.
 
 ### Druid 
