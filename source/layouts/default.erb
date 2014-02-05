@@ -1,36 +1,13 @@
 <html>
     <head>
         <title>Ravaged Mythos</title>
-        <style type="text/css">
-            body {
-                background-color: black;
-                color: white;
-            }
-
-            a {
-                color: white;
-                text-decoration: none;
-            }
-
-            .content {
-                margin: auto 0px;
-                text-align: center;
-                padding-top: 50px;
-            }
-
-            #menu {
-                font-size: 20px;
-                list-style: none;
-                padding-right: 30px;
-            }
-
-            #menu li {
-                display: inline;
-                padding-right: 20px;
-            }
-        </style>
+        <%= stylesheet_link_tag 'application' %>
     </head>
     <body>
-        <%= yield %>
+        <div class="container">
+            <%= yield %>
+        </div>
+        <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+        <%= javascript_include_tag 'application' %>
     </body>
 </html>
